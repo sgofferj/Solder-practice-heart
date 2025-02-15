@@ -1,0 +1,6 @@
+*-backups
+*-cache
+*.dsn
+*.lck
+*.zip
+_autosave*
