@@ -7898,6 +7898,32 @@
 		(layer "Edge.Cuts")
 		(uuid "de3f9c4e-9f7d-4186-9c33-9cf7f1f7bf6d")
 	)
+	(gr_text "This PCB was built by:\n\n\n\n\n\nOn:"
+		(at 165.664287 107.95 0)
+		(layer "B.SilkS")
+		(uuid "1cc02cd0-11ce-4b9f-8853-72ebeac633dd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Heart shaped solder practice PCB for kids\n(C) 2025 Stefan Gofferje\nLicense: CC-BY-SA 4.0"
+		(at 152.4 66.860749 0)
+		(layer "B.SilkS")
+		(uuid "c1f3d993-8dec-46f6-815f-0754b1ab9c7c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify bottom mirror)
+		)
+	)
 	(segment
 		(start 137.4 138.43)
 		(end 166.13 138.43)
